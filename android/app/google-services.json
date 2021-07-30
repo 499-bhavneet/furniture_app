@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "987459070014",
+    "project_id": "fino-631a4",
+    "storage_bucket": "fino-631a4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:987459070014:android:26557f3678fafa0ba4896f",
+        "android_client_info": {
+          "package_name": "com.example.FinoApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "987459070014-fi7okr98d6souc0fn3blsaivl65mg8ij.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZIUWXuHPKY-Imns9mv9J0MvRVQFQk4iE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "987459070014-fi7okr98d6souc0fn3blsaivl65mg8ij.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
